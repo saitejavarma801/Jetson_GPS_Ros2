@@ -27,7 +27,7 @@ GPS Module                           Jetson Orin J41
       [Yellow - TX]  --------------->  Pin 8 (UART2 RX -> /dev/ttyTHS1)
       [Green  - RX]  --------------->  Pin 10  (UART2 TX)
 
-Compass (I2C, currently unused in code):
+Compass:
 
       [White  - SDA] --------------->  Pin 3  (I2C SDA)
       [Orange - SCL] --------------->  Pin 5  (I2C SCL)
